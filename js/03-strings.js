@@ -1,4 +1,4 @@
-//Рядки
+//Рядки можуть бути огорнуті в подвійні(" ") або одинарні (' ')лапки
 
 const firstName = 'Serhii';
 const lastName = 'Tashkinov';
